@@ -1,0 +1,62 @@
+#header{
+    height: 75px;
+}
+
+#header #left_writtings .left_hight_writting{
+    font-size: 40px;
+    font-style: italic;
+    font-weight: bold;
+    letter-spacing: 1px;
+    display: block;
+}
+
+
+#header #left_writtings .left_small_writting{
+    top: 43px;
+    left: 40px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+#header #right_writtings .fw-bold * {
+    text-decoration: none;
+}
+
+
+#img img{
+    width: 100%;
+    height: 600px;
+}
+
+#img .img_top_writting{
+    font-size: 40px;
+    width: 565px;    margin-left: 20px;
+    color: white;
+}
+
+#img .img_down_writting{
+    color: #FAD93E !important;
+    top: 40px;
+    left: 170px;
+}
+
+#middle_writting{
+    word-spacing: 10px;
+    letter-spacing: 1px;
+}
+
+#images .img_corn img{
+    width: 300px;
+    height: 168px;
+}
+
+
+#images .img_spiderman img{
+    width: 300px;
+    height: 168px;
+}
+
+#images .img_titans img{
+    width: 300px;
+    height: 168px;
+}
